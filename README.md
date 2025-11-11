@@ -48,7 +48,7 @@ Employees submit forms, managers approve requests via email buttons, and AI agen
 - 📩 OnOffBoarding Agent — sends onboarding questionnaire (PDF) before start.
 - 💰 Payroll Agent — adjusts salary sheets based on approved leave.
 
-## 🧩 7️⃣ Implementation Screenshots
+## 🧩 7️⃣ Implementation Screenshots - I´ll add later
 
 ### Microsoft Forms – Leave Request
 ![Forms Screenshot](screenshots/forms.png)
