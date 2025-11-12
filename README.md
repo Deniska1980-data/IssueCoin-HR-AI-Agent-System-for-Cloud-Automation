@@ -258,7 +258,7 @@ I didn’t have access to Power Automate or SharePoint, so I used OneDrive and c
 
 Learned how to build triggers, debug JSON errors and integrate SendGrid API with SMTP.
 
-Fixed real-world issues such as invalid payloads, missing triggers, or failed API responses.
+Fixed real-world issues such as invalid payloads, missing triggers or failed API responses.
 
 💬 Every failure was a lesson. It taught me how systems behave under real conditions and how to think like an engineer.
 
@@ -274,32 +274,32 @@ Fixed real-world issues such as invalid payloads, missing triggers, or failed AP
 
 🐍 Python & Automation Fundamentals (Coursera)
 
-These courses gave me theoretical foundations,
-but my real experience comes from hands-on projects like this one.
+These courses gave me theoretical foundations, but my real experience comes from hands-on projects like this one.
+---
+## 🌿 About the Author  
 
-👩‍💻 About the Author
+I’m **Denisa Pitnerová** a junior **DevOps & AI Automation Enthusiast**.  
+I learn step by step, make mistakes, fix them and always aim to understand *why* something works not just that it does.
 
-I’m Denisa Pitnerová, a junior DevOps and AI automation enthusiast.
-I learn step by step, make mistakes, fix them, and always aim to understand why something works — not just how.
+I use AI tools like **ChatGPT** and **Gemini** as my coding and debugging partners, but I’m the one who deploys, tests and ensures full functionality.
 
-I use AI tools like ChatGPT and Gemini as my coding and debugging partners,
-but I’m the one who deploys, tests and ensures full functionality.
-
-As Professor Barry from AI for Lawyers said:
+> 🧠 As Professor Barry from AI for Lawyers said:
 “We must never blindly trust AI. Always ask questions why it works, what happens if I change this and how can I make it better?”
-
-This mindset helps me combine AI, DevOps and Cloud into a functional, secure and useful system.
+This mindset helps me combine **AI, DevOps and Cloud** into a functional, secure and useful system.
 
 ---
 
-## 🧩 Project Information  
-👩‍💻 **Denisa Pitnerová** – Junior DevOps & AI Automation Enthusiast  
+## 🌱 Project Information  
+
+**👩‍💻 Denisa Pitnerová** – Junior DevOps & AI Automation Enthusiast  
+
 📧 **Email:** [denisa_pitnerova@yahoo.com](mailto:denisa_pitnerova@yahoo.com)  
 🔗 **LinkedIn:** [linkedin.com/in/denisa-pitnerova](https://www.linkedin.com/in/denisa-pitnerova)  
-💻 **GitHub:** [github.com/Deniska1980-data](https://github.com/Deniska1980-data)  
+🐙 **GitHub:** [github.com/Deniska1980-data](https://github.com/Deniska1980-data)  
 📊 **Kaggle:** [kaggle.com/denisapitnerov/code](https://www.kaggle.com/denisapitnerov/code)  
 
 ---
 
-### 🪪 License  
-This project is licensed under the **MIT License** – free to use, modify, and distribute with proper attribution.  
+## 📄 License  
+This project is licensed under the **MIT License** — free to use, modify, and distribute with proper attribution.
+
