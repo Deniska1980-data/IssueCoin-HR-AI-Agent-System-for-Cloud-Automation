@@ -290,9 +290,16 @@ As Professor Barry from AI for Lawyers said:
 
 This mindset helps me combine AI, DevOps and Cloud into a functional, secure and useful system.
 
-🧩 Project created and maintained by Denisa Pitnerová – Junior DevOps & AI Automation Enthusiast
-📧 denisa.pitnerova@yahoo.com
- |  LinkedInhttps://www.linkedin.com/in/denisa-pitnerova
- |  github.com/Deniska1980-data 
- |  kaggle.com/denisapitnerov/code 
+---
 
+## 🧩 Project Information  
+👩‍💻 **Denisa Pitnerová** – Junior DevOps & AI Automation Enthusiast  
+📧 **Email:** [denisa_pitnerova@yahoo.com](mailto:denisa_pitnerova@yahoo.com)  
+🔗 **LinkedIn:** [linkedin.com/in/denisa-pitnerova](https://www.linkedin.com/in/denisa-pitnerova)  
+💻 **GitHub:** [github.com/Deniska1980-data](https://github.com/Deniska1980-data)  
+📊 **Kaggle:** [kaggle.com/denisapitnerov/code](https://www.kaggle.com/denisapitnerov/code)  
+
+---
+
+### 🪪 License  
+This project is licensed under the **MIT License** – free to use, modify, and distribute with proper attribution.  
