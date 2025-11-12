@@ -303,10 +303,10 @@ This mindset helps me combine **AI, DevOps and Cloud** into a functional, secure
 
 **👩‍💻 Denisa Pitnerová** – Junior DevOps & AI Automation Enthusiast  
 
-📧 **Email:** [denisa_pitnerova@yahoo.com](mailto:denisa_pitnerova@yahoo.com)  
-🔗 **LinkedIn:** [linkedin.com/in/denisa-pitnerova](https://www.linkedin.com/in/denisa-pitnerova)  
-🐙 **GitHub:** [github.com/Deniska1980-data](https://github.com/Deniska1980-data)  
-📊 **Kaggle:** [kaggle.com/denisapitnerov/code](https://www.kaggle.com/denisapitnerov/code)  
+📧 **Email:** (denisa_pitnerova@yahoo.com)  
+🔗 **LinkedIn:** (www.linkedin.com/in/denisa-pitnerova)  
+🐙 **GitHub:** (www.github.com/Deniska1980-data)  
+📊 **Kaggle:** (www.kaggle.com/denisapitnerov/code)  
 
 ---
 
