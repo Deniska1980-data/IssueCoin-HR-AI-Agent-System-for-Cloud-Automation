@@ -1,4 +1,6 @@
 # 🧠 Industry Automation Cloud with AI Agents – HR Department  
+“This project demonstrates how cloud-based HR workflows can be fully automated using AI agents, DevOps pipelines, and secure integrations across Azure, n8n, and OneDrive.”
+
 **Author: Denisa Pitnerová**  
 *Junior DevOps | Cloud & AI Automation Enthusiast | Self-taught Learner*
 
@@ -21,6 +23,14 @@ The project is divided into several functional agents:
 - 📁 **Other agents (Access, Payroll, Reports)** will be added later as the HR ecosystem expands.
 
 Each agent reports to its superior – the **IssueCoin HR Agent**, who supervises them and will eventually use **Azure OpenAI** as its “brain” for autonomous reasoning and decision-making.
+
+## 🧩 **Tech Stack:**
+- Python (Pydantic, JSON handling)
+- Azure Logic Apps & OneDrive API
+- n8n Workflow Automation
+- SendGrid Email API
+- OAuth2, 2FA, and Secrets Management
+
 
 ### 📸 Screenshots and Workflow Overview 
 ### 🧩 1. Microsoft Forms – Leave Request Form
