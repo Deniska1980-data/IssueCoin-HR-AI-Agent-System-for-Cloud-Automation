@@ -22,6 +22,54 @@ The project is divided into several functional agents:
 
 Each agent reports to its superior – the **IssueCoin HR Agent**, who supervises them and will eventually use **Azure OpenAI** as its “brain” for autonomous reasoning and decision-making.
 
+📸 Screenshots and Workflow Overview (English version)
+🧩 1. Microsoft Forms – Leave Request Form
+
+Employee fills out the vacation request form, which triggers the HR automation process in the IssueCoin system.
+🖼️ Screenshot: obrazek8_Formular_FORMS.jpg
+
+☁️ 2. OneDrive – Data Storage Structure
+
+The request is automatically stored in an Excel file on OneDrive. Each HR process (Attendance, Payroll, Onboarding) has its own structured folder.
+🖼️ Screenshot: obrazek5_soubory_OneDrive.jpg
+
+📊 3. Excel Table – Centralized Data
+
+All form responses are logged in the table IssueCoin_Žádost_o_volno_firma.xlsx, which serves as a single source of truth for automation flows.
+🖼️ Screenshot: obrazek6_soubor_excel_IssueCoin_zadosti_volno.jpg
+
+⚙️ 4. n8n Workflow – Automation Process
+
+The n8n workflow connects OneDrive, SendGrid API, and triggers for approval or rejection notifications.
+🖼️ Screenshot: obrazek7_workflow_n8n.jpg
+
+🔐 5. SendGrid – Secure Email Integration
+
+SendGrid API enables safe and verified email communication within the HR automation process.
+🖼️ Screenshot: obrazek3_security_SendGrid.JPG
+
+📧 6. HR Manager – Approval Email
+
+Once the employee submits the request, the HR manager automatically receives an email for approval or denial.
+🖼️ Screenshot: obrazek4_email_zadost_volno.jpg
+
+🤖 7. IssueCoin AI Agent HR – Decision Notification
+
+After the HR manager decides, the IssueCoin AI Agent sends a confirmation email to the employee with the final result.
+🖼️ Screenshot: obrazek13_agentAI_IssueCoin_posiela_odpoved_zadost.jpg
+
+🧠 8. Azure Logic Apps – Automation Flow Overview
+
+Azure Logic Apps manages recurring processes, reads from Excel tables, and triggers email workflows for Onboarding/Offboarding.
+🖼️ Screenshot: obrazek11_Azure_Logic_App.jpg
+
+💼 9. Email Configuration – On/Off Boarding Template
+
+Configuration of dynamic email templates for OnBoarding/OffBoarding notifications with embedded HTML and variable placeholders.
+🖼️ Screenshot: obrazek10_konfigurace_email_OnOff_Boarding.jpg
+
+💡 Each image illustrates a functional step in the fully automated HR workflow within the project Industry Automation Cloud with AI Agents – HR Department. The system follows the AI Pyramid Model, where the IssueCoin Agent acts as the main coordinator for all sub-agents (Attendance, OnBoarding, OffBoarding, Payroll).
+
 ---
 
 ## 🧠 AI Agent Pyramid Model (Pydantic Architecture)
