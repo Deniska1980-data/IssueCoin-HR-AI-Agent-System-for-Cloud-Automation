@@ -26,7 +26,7 @@ Each agent reports to its superior – the **IssueCoin HR Agent**, who supervise
 🧩 1. Microsoft Forms – Leave Request Form
 
 Employee fills out the vacation request form, which triggers the HR automation process in the IssueCoin system.
-
+![Microsof Forms-Leave Request Form] (https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek8_Formular_FORMS.jpg)
 
 
 💡 Each image illustrates a functional step in the fully automated HR workflow within the project Industry Automation Cloud with AI Agents – HR Department.
