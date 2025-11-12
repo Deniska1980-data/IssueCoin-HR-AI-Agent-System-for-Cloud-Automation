@@ -35,6 +35,59 @@ The request is automatically stored in an Excel file on OneDrive. Each HR proces
 
 ![OneDrive – Data Storage Structure](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek5_soubory_OneDrive.jpg)
 
+📊 **3. Excel Table – Centralized Data**  
+
+All form responses are logged in the table `IssueCoin_Žádost_o_volno_firma.xlsx`, which serves as a single source of truth for automation workflows.  
+
+![Excel Table – Centralized Data](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek6_soubor_excel_IssueCoin_zadosti_volno.jpg)
+
+---
+
+⚙️ **4. n8n Workflow – Automation Process**  
+
+The n8n workflow connects OneDrive, SendGrid API, and triggers for approval or rejection notifications.  
+
+![n8n Workflow – Automation Process](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek7_workflow_n8n.jpg)
+
+---
+
+🔐 **5. SendGrid – Secure Email Integration**  
+
+SendGrid API enables safe and verified email communication within the HR automation process.  
+
+![SendGrid – Secure Email Integration](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek3_security_SendGrid.JPG)
+
+---
+
+📧 **6. HR Manager – Approval Email**  
+
+Once the employee submits the request, the HR manager automatically receives an email for approval or denial.  
+
+![HR Manager – Approval Email](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek4_email_zadost_volno.jpg)
+
+---
+
+🤖 **7. IssueCoin AI Agent HR – Decision Notification**  
+
+After the HR manager decides, the IssueCoin AI Agent sends a confirmation email to the employee with the final result.  
+
+![IssueCoin AI Agent HR – Decision Notification](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek13_agentAI_IssueCoin_posiela%20odpoved_zadost.jpg)
+
+---
+
+🧠 **8. Azure Logic Apps – Automation Flow Overview**  
+
+Azure Logic Apps manages recurring processes, reads from Excel tables, and triggers email workflows for Onboarding/Offboarding.  
+
+![Azure Logic Apps – Automation Flow Overview](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek11_Azure_Logic_App.jpg)
+
+---
+
+💼 **9. Email Configuration – On/Off Boarding Template**  
+
+Configuration of dynamic email templates for OnBoarding/OffBoarding notifications with embedded HTML and variable placeholders.  
+
+![Email Configuration – On/Off Boarding Template](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek10_konfirgurace_email_OnOff_Boarding.jpg)
 
 💡 Each image illustrates a functional step in the fully automated HR workflow within the project Industry Automation Cloud with AI Agents – HR Department.
 The system follows the AI Pyramid Model, where the IssueCoin Agent acts as the main coordinator for all sub-agents (Attendance, OnBoarding, OffBoarding, Payroll).
