@@ -22,12 +22,18 @@ The project is divided into several functional agents:
 
 Each agent reports to its superior – the **IssueCoin HR Agent**, who supervises them and will eventually use **Azure OpenAI** as its “brain” for autonomous reasoning and decision-making.
 
-📸 Screenshots and Workflow Overview 
-🧩 1. Microsoft Forms – Leave Request Form
+### 📸 Screenshots and Workflow Overview 
+### 🧩 1. Microsoft Forms – Leave Request Form
 
 Employee fills out the vacation request form, which triggers the HR automation process in the IssueCoin system.  
 
 ![Microsoft Forms – Leave Request Form](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek8_Formular_FORMS.jpg)
+
+### ☁️ 2. OneDrive – Data Storage Structure  
+
+The request is automatically stored in an Excel file on OneDrive. Each HR process (Attendance, Payroll, Onboarding) has its own structured folder.  
+
+![OneDrive – Data Storage Structure](https://github.com/Deniska1980-data/IssueCoin-HR-AI-Agent-System-for-Cloud-Automation/blob/main/obrazek5_soubory_OneDrive.jpg)
 
 
 💡 Each image illustrates a functional step in the fully automated HR workflow within the project Industry Automation Cloud with AI Agents – HR Department.
