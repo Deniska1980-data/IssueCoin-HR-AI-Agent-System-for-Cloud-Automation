@@ -1,4 +1,5 @@
-# 🧠 Industry Automation Cloud with AI Agents – HR Department  
+# 🧠 Industry Automation Cloud with AI Agents – HR Department (MVP Prototype)
+
 “This project demonstrates how cloud-based HR workflows can be fully automated using AI agents, DevOps pipelines, and secure integrations across Azure, n8n, and OneDrive.”
 
 **Author: Denisa Pitnerová**  
